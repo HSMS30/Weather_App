@@ -1,3 +1,9 @@
+#Stephen Smith
+#Description About PM Accelerator: PM Accelerator is the premier AI learning and development hub, 
+#featuring award-winning AI products and mentors from top-tier companies such as Google, Meta, and Apple. 
+#We offer a dynamic AI PM Bootcamp, designed to empower the next generation of AI professionals through hands-on experience, mentorship, and real-world projects.
+
+
 import requests
 
 Api_key = '6e6f9659fef62e5c5d1103979100d281'
