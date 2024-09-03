@@ -1,0 +1,1 @@
+This weather app was created in Visual Studio Code. I created it with the intent to give the user the ability to look up the weather for any city they choose. With it the user will be told the weather status, temperature, and the humidit. The program gives the live weather info.
